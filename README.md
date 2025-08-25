@@ -43,7 +43,7 @@ Power BI → Dashboard creation, bookmarks, RFM segmentation, scatterplots
 Python → Data preprocessing, exploratory analysis
 Pandas, Matplotlib → Additional checks & transformations
 
-📷 Dashboard Preview ![Dashboard Preview] (images/Fitness_Onyx_Challenge.png)
+📷 Dashboard Preview  ![Dashboard Preview] (images/Fitness_Onyx_Challenge.png)
 
 🚀 How to Use
 
@@ -60,10 +60,8 @@ Onyx Data, ZoomCharts, Enterprise DNA, BCS The Chartered Institute for IT,
 Smart Frames UI, Data Career Jumpstart
 
 📌 Author
-
 👤 Rachita
-
 LinkedIn: https://www.linkedin.com/in/rachita-ai-enthusiast
 LinkedIn Post: https://www.linkedin.com/posts/rachita-ai-enthusiast_powerbi-datadna-analytics-activity-7365479353457025024-YJbr?utm_source=share&utm_medium=member_desktop&rcm=ACoAACq54EUBoF_nzCPWo1lI6wATBE_l_Kydrdc
-Power BI: 
+Power BI: https://app.powerbi.com/groups/me/reports/23d5714b-8193-40d6-acc9-a4f492157675/bc4adfb00b402d417226?experience=power-bi
 
