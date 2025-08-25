@@ -16,15 +16,15 @@ images/ → Screenshots of dashboard tabs
 📊 Dashboard Highlights
 1. Retention Tab
 
-Recency-based segmentation of members into Active, Low Risk, High Risk, and Likely Churn.
-
-Intervention strategies for each segment:
-
-Active → Ask for referrals
-
-Low Risk (30–45 days) → Proactive contact
-
-High Risk (45–60 days) → Targeted discounts
+    Recency-based segmentation of members into Active, Low Risk, High Risk, and Likely Churn.
+    
+    Intervention strategies for each segment:
+    
+    Active → Ask for referrals
+    
+    Low Risk (30–45 days) → Proactive contact
+    
+    High Risk (45–60 days) → Targeted discounts
 
 Likely churn (>60 days) → Personalized reactivation offers
 
