@@ -26,35 +26,35 @@ images/ → Screenshots of dashboard tabs
     
     High Risk (45–60 days) → Targeted discounts
 
-Likely churn (>60 days) → Personalized reactivation offers
+    Likely churn (>60 days) → Personalized reactivation offers
 
 2. Resource Utilization Tab
 
-Heatmaps of peak gym usage hours (10, 11, 13, 14, 17 hrs).
-
-Insights into gender preferences & program-specific peaks (Sauna, Training, Group Sessions).
-
-Location analysis: Fresno, Long Beach, and Sacramento as key hubs.
+    Heatmaps of peak gym usage hours (10, 11, 13, 14, 17 hrs).
+    
+    Insights into gender preferences & program-specific peaks (Sauna, Training, Group Sessions).
+    
+    Location analysis: Fresno, Long Beach, and Sacramento as key hubs.
 
 3. Revenue Optimization Tab
 
-Premium memberships & monthly payments drive highest average revenue.
-
-Discounts not always effective → possible poor targeting or competitive pricing.
-
-Females contribute slightly higher avg revenue.
-
-Scatterplot analysis: High-risk members = most price-sensitive.
+    Premium memberships & monthly payments drive highest average revenue.
+    
+    Discounts not always effective → possible poor targeting or competitive pricing.
+    
+    Females contribute slightly higher avg revenue.
+    
+    Scatterplot analysis: High-risk members = most price-sensitive.
 
 ⚙️ Tech Stack
 
-Power BI → Dashboard creation, bookmarks, RFM segmentation, scatterplots
+    Power BI → Dashboard creation, bookmarks, RFM segmentation, scatterplots
+    
+    Python → Data preprocessing, exploratory analysis
+    
+    Pandas, Matplotlib → Additional checks & transformations
 
-Python → Data preprocessing, exploratory analysis
-
-Pandas, Matplotlib → Additional checks & transformations
-
-📷 Dashboard Preview
+📷 Dashboard Preview 
 
 🚀 How to Use
 
