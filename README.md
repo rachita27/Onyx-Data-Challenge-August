@@ -54,7 +54,7 @@ images/ → Screenshots of dashboard tabs
     
     Pandas, Matplotlib → Additional checks & transformations
 
-📷 Dashboard Preview 
+📷 Dashboard Preview ![Dashboard Preview](Fitness_Onyx_Challenge.png)
 
 🚀 How to Use
 
@@ -89,7 +89,9 @@ Data Career Jumpstart
 
 
 📌 Author
+
 👤 Rachita
+
 LinkedIn: https://www.linkedin.com/in/rachita-ai-enthusiast
 
 LinkedIn Post: https://www.linkedin.com/posts/rachita-ai-enthusiast_powerbi-datadna-analytics-activity-7365479353457025024-YJbr?utm_source=share&utm_medium=member_desktop&rcm=ACoAACq54EUBoF_nzCPWo1lI6wATBE_l_Kydrdc
