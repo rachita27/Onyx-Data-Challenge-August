@@ -43,7 +43,7 @@ Power BI → Dashboard creation, bookmarks, RFM segmentation, scatterplots
 Python → Data preprocessing, exploratory analysis
 Pandas, Matplotlib → Additional checks & transformations
 
-📷 Dashboard Preview ![Dashboard Preview](images/Fitness_Onyx_Challenge.png)
+📷 Dashboard Preview ![Dashboard Preview] (images/Fitness_Onyx_Challenge.png)
 
 🚀 How to Use
 
@@ -64,6 +64,6 @@ Smart Frames UI, Data Career Jumpstart
 👤 Rachita
 
 LinkedIn: https://www.linkedin.com/in/rachita-ai-enthusiast
-LinkedIn Post: 
+LinkedIn Post: https://www.linkedin.com/posts/rachita-ai-enthusiast_powerbi-datadna-analytics-activity-7365479353457025024-YJbr?utm_source=share&utm_medium=member_desktop&rcm=ACoAACq54EUBoF_nzCPWo1lI6wATBE_l_Kydrdc
 Power BI: 
 
