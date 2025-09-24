@@ -55,7 +55,7 @@ images/ → Screenshots of dashboard tabs
     Pandas, Matplotlib → Additional checks & transformations
 
 📷 Dashboard Preview ![Dashboard Preview](Fitness_Onyx_Challenge.png)
-Awarded Problem Solver 📷 Dashboard Preview ![Dashboard Preview](The Problem Solver - Rachita.png)
+Awarded Problem Solver 📷 Dashboard Preview ![Dashboard Preview](Awarded_Problem_Solver.png)
 🚀 How to Use
 
 Clone the repository:
